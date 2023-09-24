@@ -2,5 +2,7 @@ This program is intended to model a college CS professor's office hour sessions 
 
 A summary of session statistics will be printed to the console after the simulation has concluded. Also, a record of students and the academic topics that each asked about will be saved to a local text file called 'recent_SSaTT'. You'll be able to search through or sort this data via the console immediately after the simulation concludes.
 
+Make sure to compile in C++11.
+
 Thanks for trying my code!
 -J
